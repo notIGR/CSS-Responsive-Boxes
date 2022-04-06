@@ -8,27 +8,52 @@ body {
   border: 10px solid hotpink;
 }
 .a {
+  width: 100%;
+  padding-bottom: 20%;
   border: 10px solid rgb(134, 140, 24);
 }
 .b {
+  width: 20%;
+  padding-bottom: 20%;
+  margin-bottom: 2%; 
+  position: relative;
   border: 10px solid rgb(134, 140, 24);
 }
 .c {
+  width: 20%;
+  padding-bottom: 20%;
+  margin-bottom: 2%; 
+  position: relative;
   border: 10px solid rgb(134, 140, 24);
 }
 .d {
+  width: 20%;
+  padding-bottom: 20%;
+  margin-bottom: 2%; 
+  position: relative;
   border: 10px solid rgb(134, 140, 24);
 }
 .e {
+  width: 20%;
+  padding-bottom: 20%;
+  margin-bottom: 2%; 
+  position: relative;
   border: 10px solid rgb(134, 140, 24);
 }
-.f{
+.f {
+  width: 20%;
+  padding-bottom: 20%;
+  margin-bottom: 2%; 
+  position: relative;
   border: 10px solid rgb(134, 140, 24);
 }
 .g {
+  width: 20%;
+  padding-bottom: 20%;
+  margin-bottom: 2%; 
+  position: relative;
   border: 10px solid rgb(134, 140, 24);
 }
 .h {
   border: 10px solid rgb(134, 140, 24);
 }
-
