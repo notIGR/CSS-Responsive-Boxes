@@ -1,3 +1,34 @@
 body {
   background: peachpuff;
 }
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: 10px solid hotpink;
+}
+.a {
+  border: 10px solid rgb(134, 140, 24);
+}
+.b {
+  border: 10px solid rgb(134, 140, 24);
+}
+.c {
+  border: 10px solid rgb(134, 140, 24);
+}
+.d {
+  border: 10px solid rgb(134, 140, 24);
+}
+.e {
+  border: 10px solid rgb(134, 140, 24);
+}
+.f{
+  border: 10px solid rgb(134, 140, 24);
+}
+.g {
+  border: 10px solid rgb(134, 140, 24);
+}
+.h {
+  border: 10px solid rgb(134, 140, 24);
+}
+
